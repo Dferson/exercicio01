@@ -87,4 +87,3 @@ echo "novo conteúdo" > novo.txt
 git status
 ```
 Resultado: `novo.txt` não aparece no status, pois está sendo ignorado pelo `.gitignore`.
-```
